@@ -1,0 +1,17 @@
+Shopping App 
+Order number: 62e1202b9dc86c0fe70cb458 
+Order Date: Wed Jul 27 2022 
+Products List: 
+
+Coca Cola Case
+ 50 ₪ X  1 = 50 ₪ 
+Coca Cola Zero
+ 8 ₪ X  1 = 8 ₪ 
+
+
+
+Total Products 2
+
+  Total price: 58 ₪
+
+  credit card: 2431

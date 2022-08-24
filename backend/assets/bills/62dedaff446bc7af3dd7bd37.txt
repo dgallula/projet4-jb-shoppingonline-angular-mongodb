@@ -1,0 +1,19 @@
+Shopping App 
+Order number: 62dedaff446bc7af3dd7bd37 
+Order Date: Mon Jul 25 2022 
+Products List: 
+
+Milk 3%
+ 6 ₪ X  2 = 12 ₪ 
+Yellow Cheese
+ 21 ₪ X  1 = 21 ₪ 
+30 Eggs
+ 41 ₪ X  1 = 41 ₪ 
+
+
+
+Total Products 3
+
+  Total price: 74 ₪
+
+  credit card: 3134

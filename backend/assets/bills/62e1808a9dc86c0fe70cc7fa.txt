@@ -1,0 +1,15 @@
+Shopping App 
+Order number: 62e1808a9dc86c0fe70cc7fa 
+Order Date: Wed Jul 27 2022 
+Products List: 
+
+Cream Cheese 5%
+ 5 ₪ X  5 = 25 ₪ 
+
+
+
+Total Products 1
+
+  Total price: 25 ₪
+
+  credit card: 423

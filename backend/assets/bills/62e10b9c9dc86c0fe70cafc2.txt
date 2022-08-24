@@ -1,0 +1,23 @@
+Shopping App 
+Order number: 62e10b9c9dc86c0fe70cafc2 
+Order Date: Wed Jul 27 2022 
+Products List: 
+
+Red Apple
+ 10 ₪ X  1 = 10 ₪ 
+Orenge
+ 5 ₪ X  1 = 5 ₪ 
+Whtermelon
+ 3 ₪ X  3 = 9 ₪ 
+Challah Flour
+ 7 ₪ X  2 = 14 ₪ 
+Canola Oil
+ 15 ₪ X  3 = 45 ₪ 
+
+
+
+Total Products 5
+
+  Total price: 83 ₪
+
+  credit card: 2222

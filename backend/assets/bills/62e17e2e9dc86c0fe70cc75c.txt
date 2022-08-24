@@ -1,0 +1,21 @@
+Shopping App 
+Order number: 62e17e2e9dc86c0fe70cc75c 
+Order Date: Wed Jul 27 2022 
+Products List: 
+
+Canola Oil
+ 15 ₪ X  2 = 30 ₪ 
+Olive Oil
+ 30 ₪ X  1 = 30 ₪ 
+Salt
+ 5 ₪ X  2 = 10 ₪ 
+Coca Cola Zero
+ 8 ₪ X  1 = 8 ₪ 
+
+
+
+Total Products 4
+
+  Total price: 78 ₪
+
+  credit card: 8223
