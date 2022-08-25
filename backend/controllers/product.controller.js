@@ -1,5 +1,5 @@
-const Category = require("../models/Category.model.js");
-const Product = require("../models/product.model.js");
+const Category = require("../models/Category.model");
+const Product = require("../models/Product.model");
 
 // Create and Save a new Product
 exports.create = (req, res) => {
